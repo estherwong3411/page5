@@ -1,0 +1,46 @@
+.titleHead {
+  font-size: 35px;
+  text-align: 20%;
+  padding: 10px 30px;
+  max-width: 400px;
+}
+
+.titleSub {
+  font-size: 15px;
+  padding: 0px 30px;
+  line-height: 0.1;
+  max-width: 400px;
+}
+.plant {
+  max-width:100%;
+  padding: 0px 30px;
+  max-width: 400px;
+}
+p.test {
+    font-size: 12px; 
+    line-height: 0.2;
+    padding: 0px 30px;
+  max-width: 400px;
+}
+p.test2 {
+    font-size: 12px; 
+    line-height: 0.2;
+    padding: 0px 30px;
+  max-width: 400px;
+}  
+h4.text1 {
+    font-size: 20px; 
+    line-height: 1.5;
+    padding: 0px 30px;
+  max-width: 400px;
+}
+.imgblock-1 {
+  background: url("https://upload.cc/i/MCRKPb.png");
+  background-size: 10%;
+  background-repeat: no-repeat;
+  height: 300px;
+  width: 90%;
+  margin-top: -570px;
+  margin-left: 300px;
+  max-width: 400px;
+}
